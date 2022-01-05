@@ -10,14 +10,6 @@ I'm a **filmmaker turned software engineer** :movie_camera: -> :computer: who lo
 - 👑 GitHub reports
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianyao-ma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-  
-
-  
-
-
-
-</br>
 
 <hr>
 <p align="center">
