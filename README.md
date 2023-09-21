@@ -6,8 +6,7 @@ I'm a filmmaker turned software engineer :movie_camera: -> :computer: who loves 
 
 <img src="https://media4.giphy.com/media/Rjub7AIEIbXT0tzbr3/giphy.gif?cid=ecf05e470fxsoifj3ezsgs106ahiwht02sps5hjt5vrgkyl5&rid=giphy.gif&ct=g" width="200" height="150" frameBorder="0" class="giphy-embed" allowFullScreen align="right"></img>
 
-- :ok_woman: Recent focus on learning and building full stack web applications.
-- 🌱 Currently practicing JavaScript and learning foundations of software architecture and networks.
+- :ok_woman: Recent focus on building scalable full stack web applications.
 - 💬 Ask me about my journey and share yours!
 - :sparkling_heart: love working with people on solving tough problems, and learning new things along the way:bulb:.
 - 📫 Let's connect: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width="15"></img> [LinkedIn](https://www.linkedin.com/in/tianyao-ma/).
